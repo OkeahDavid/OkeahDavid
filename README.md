@@ -10,8 +10,6 @@ I am greatly interested in data analysis, full-stack development, artificial int
 Outside of work I'm interested in games, anime, and football.
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OkeahDavid&theme=dark)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkeahDavid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
