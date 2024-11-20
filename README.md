@@ -3,7 +3,7 @@
 I'm [**David**](https://davidokeah.com), a software engineer living in Hamburg, Germany.
 
 I'm primarily interested in **full-stack development** and currently work as a
-Software Engineer at [**@Airbus**](https://github.com/Airbus).
+Software Engineer.
 
 I am greatly interested in data analysis, full-stack development, artificial intelligence, computer vision, and everything in between.
 
